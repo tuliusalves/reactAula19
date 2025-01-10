@@ -1,0 +1,12 @@
+{
+  "name": "reactAula19",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tuliusalves/reactAula19.git",
+  "author": "Túlius <tulius_sr@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
